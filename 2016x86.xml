@@ -1,0 +1,18 @@
+<Configuration>
+<Add OfficeClientEdition="32" Channel="Monthly">
+    <Product ID="ProplusRetail">
+      <Language ID="zh-CN" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+    <Product ID="ProjectProRetail">
+      <Language ID="zh-CN" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+    <Product ID="VisioProRetail">
+      <Language ID="zh-CN" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+</Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Updates Enabled="TRUE" Channel="Monthly" />
+</Configuration>
